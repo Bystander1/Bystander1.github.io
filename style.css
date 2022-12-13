@@ -22,14 +22,14 @@ h1 {
 }
 
 .hr {
-    height: 10px;
+/*     height: 10px;
     color: red;
     border-color: red;
     border-width: 500px;
     max-width: 500px;
     margin: auto;
     /* color: red; */
-    opacity: 1;
+    opacity: 1; */
 }
 
 .btn-primary {
